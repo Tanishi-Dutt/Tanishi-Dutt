@@ -13,7 +13,7 @@
 - 💻 Comfortable working across **Python** and **JavaScript**
 - 🌱 Always learning — new algorithms, new frameworks, new ideas
 - ⚡ Fun fact: I like turning messy data into something that actually makes sense
-- 📫 Connect with me on **[www.linkedin.com/in/tanishi-dutt-0b2044257)
+- 📫 Connect with me on www.linkedin.com/in/tanishi-dutt-0b2044257
 
 ---
 
